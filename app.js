@@ -287,7 +287,7 @@ function wire(route,arg){
   if(route==="month"){ const sel=$("#month-sel"); if(sel) sel.onchange=()=>location.hash=`#/month/${sel.value}`; }
   if(route==="settings"){
     const log=m=>{ const el=$("#sync-log"); if(el) el.textContent=m; };
-    const cb=$("#connect-btn"); if(cb) cb.onclick=async()=>{ try{ await GSync.sync(buildSyncUnits(),nonFeeders(),log); render(); }
+    const cb=$("#connect-btn"); if(cb) cb.onclick=async()=>{ try{ log("Opening Google sign-in…"); await GSync.connect(); const r=await GSync.sync(buildSyncUnits(),nonFeeders(),log); toast(r.summary); render(); }
       catch(e){ log("⚠ "+e.message); } };
     const sb=$("#sync-btn"); if(sb) sb.onclick=async()=>{ sb.disabled=true; try{ const r=await GSync.sync(buildSyncUnits(),nonFeeders(),log); toast(r.summary); }
       catch(e){ log("⚠ "+e.message); } finally{ sb.disabled=false; } };

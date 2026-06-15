@@ -1,6 +1,6 @@
 /* Garden Care PWA service worker — cache the app shell so it installs and
    works offline. Bump CACHE to ship updates. */
-const CACHE = "gardencare-v4";
+const CACHE = "gardencare-v5";
 const SHELL = [
   "./", "index.html", "style.css", "app.js", "config.js", "idb.js", "gsync.js",
   "manifest.webmanifest", "library.json", "icon-192.png", "icon-512.png",

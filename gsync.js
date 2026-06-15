@@ -27,25 +27,32 @@ const GSync = (() => {
   }
   const stripLinks = s => (s || "").replace(/\s*\[[^\]]*\]\([^)]*\)/g, "").trim();
 
+  let pendingResolve = null, pendingReject = null;
   function ensureClient() {
     if (tokenClient) return;
     if (!window.google || !google.accounts || !google.accounts.oauth2)
-      throw new Error("Google sign-in didn't load. Check your connection and retry.");
+      throw new Error("Google sign-in didn't load — check your connection and retry.");
     tokenClient = google.accounts.oauth2.initTokenClient({
-      client_id: clientId(), scope: SCOPE, callback: () => {},
+      client_id: clientId(), scope: SCOPE,
+      callback: (resp) => {
+        if (resp.error) { pendingReject && pendingReject(new Error(resp.error)); return; }
+        accessToken = resp.access_token;
+        tokenExpiry = Date.now() + (resp.expires_in || 3600) * 1000;
+        localStorage.setItem("gc_google_connected", "1");
+        pendingResolve && pendingResolve(accessToken);
+      },
+      error_callback: (err) => {
+        pendingReject && pendingReject(new Error((err && err.type) ? err.type : "sign-in cancelled or blocked"));
+      },
     });
   }
+  // interactive=true shows the account/consent screen (use on first connect, in a
+  // click handler); false attempts a silent token for an already-connected user.
   function getToken(interactive) {
     return new Promise((resolve, reject) => {
       if (accessToken && Date.now() < tokenExpiry - 60000) return resolve(accessToken);
       ensureClient();
-      tokenClient.callback = (resp) => {
-        if (resp.error) return reject(new Error(resp.error));
-        accessToken = resp.access_token;
-        tokenExpiry = Date.now() + (resp.expires_in || 3600) * 1000;
-        localStorage.setItem("gc_google_connected", "1");
-        resolve(accessToken);
-      };
+      pendingResolve = resolve; pendingReject = reject;
       tokenClient.requestAccessToken({ prompt: interactive ? "consent" : "" });
     });
   }
@@ -99,7 +106,7 @@ const GSync = (() => {
   async function sync(units, nonFeeders, log = () => {}) {
     if (!available()) throw new Error("Google sign-in isn't configured yet (no Client ID).");
     log("Connecting to Google…");
-    const token = await getToken(false).catch(() => getToken(true));
+    const token = await getToken(false);   // connect() obtains the token interactively first
     log("Opening your Garden Care task list…");
     const listId = await ensureList(token);
     const existing = await indexExisting(token, listId);
@@ -134,5 +141,6 @@ const GSync = (() => {
     accessToken = null; tokenExpiry = 0; localStorage.removeItem("gc_google_connected");
   }
   const isConnected = () => localStorage.getItem("gc_google_connected") === "1";
-  return { available, sync, disconnect, isConnected };
+  const connect = () => getToken(true);   // interactive — call directly from a click
+  return { available, sync, connect, disconnect, isConnected };
 })();
