@@ -71,8 +71,9 @@ function dedupeItems(items){ const seen=new Set(); return items.filter(it=>{cons
 
 // sync units for the whole year (skip info-only tasks)
 function buildSyncUnits(){
-  const year=new Date().getFullYear();
-  const from=new Date(year,0,1), to=new Date(year,11,31);
+  const now=new Date();
+  const from=new Date(now.getFullYear(),now.getMonth(),1);  // current month forward only
+  const to=new Date(now.getFullYear(),11,31);
   const batches=batchesBetween(from,to,{skipSync:true});
   const units=[];
   for(const b of batches) for(const task of Object.keys(b.byTask))
