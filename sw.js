@@ -1,8 +1,8 @@
 /* Garden Care PWA service worker — cache the app shell so it installs and
    works offline. Bump CACHE to ship updates. */
-const CACHE = "gardencare-poc-v1";
+const CACHE = "gardencare-v2";
 const SHELL = [
-  "./", "index.html", "style.css", "app.js",
+  "./", "index.html", "style.css", "app.js", "config.js", "idb.js", "gsync.js",
   "manifest.webmanifest", "library.json", "icon-192.png", "icon-512.png",
 ];
 self.addEventListener("install", e => {
