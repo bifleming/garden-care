@@ -30978,6 +30978,2536 @@
           }
         ]
       }
+    },
+    "Tulip": {
+      "description": "Classic cup-shaped spring bulb in nearly every color. Fall-planted for mid-spring bloom; needs a cold winter (or pre-chilling) to flower. Often short-lived, so many gardeners replant favorites.",
+      "photo_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/%D7%A6%D7%91%D7%A2%D7%95%D7%A0%D7%99%D7%9D.JPG/330px-%D7%A6%D7%91%D7%A2%D7%95%D7%A0%D7%99%D7%9D.JPG",
+      "zones": {
+        "3a": [
+          {
+            "task": "Plant bulbs",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "September 15",
+            "end": "",
+            "notes": "Plant 4–6 inches deep, pointed end up, in well-drained soil; mix bulb food into the hole."
+          },
+          {
+            "task": "Fertilize",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "April 20",
+            "end": "",
+            "notes": "Feed lightly with bulb food as shoots break ground in spring."
+          },
+          {
+            "task": "Deadhead",
+            "product": "",
+            "cadence": "once",
+            "start": "May 24",
+            "end": "",
+            "notes": "Snip spent flowers so energy goes to the bulb, not seed — but leave all the foliage."
+          },
+          {
+            "task": "Cut back",
+            "product": "",
+            "cadence": "once",
+            "start": "June 25",
+            "end": "",
+            "notes": "Remove foliage only after it yellows (≈6 weeks past bloom). Never cut or braid green leaves — they're recharging the bulb."
+          },
+          {
+            "task": "Winter mulch",
+            "product": "",
+            "cadence": "once",
+            "start": "November 1",
+            "end": "",
+            "notes": "2–3 inches of straw or shredded leaves once the ground chills, to prevent frost-heave."
+          },
+          {
+            "task": "Remove winter mulch",
+            "product": "",
+            "cadence": "once",
+            "start": "April 1",
+            "end": "",
+            "notes": "Pull mulch back as shoots emerge so they get light and air."
+          },
+          {
+            "task": "Pest & disease check",
+            "product": "",
+            "cadence": "every 3 weeks",
+            "start": "April 20",
+            "end": "June 25",
+            "notes": "Watch for aphids on buds, and protect bulbs from squirrels and voles — they love tulips (wire mesh over the bed helps)."
+          }
+        ],
+        "3b": [
+          {
+            "task": "Plant bulbs",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "September 20",
+            "end": "",
+            "notes": "Plant 4–6 inches deep, pointed end up, in well-drained soil; mix bulb food into the hole."
+          },
+          {
+            "task": "Fertilize",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "April 15",
+            "end": "",
+            "notes": "Feed lightly with bulb food as shoots break ground in spring."
+          },
+          {
+            "task": "Deadhead",
+            "product": "",
+            "cadence": "once",
+            "start": "May 19",
+            "end": "",
+            "notes": "Snip spent flowers so energy goes to the bulb, not seed — but leave all the foliage."
+          },
+          {
+            "task": "Cut back",
+            "product": "",
+            "cadence": "once",
+            "start": "June 20",
+            "end": "",
+            "notes": "Remove foliage only after it yellows (≈6 weeks past bloom). Never cut or braid green leaves — they're recharging the bulb."
+          },
+          {
+            "task": "Winter mulch",
+            "product": "",
+            "cadence": "once",
+            "start": "November 1",
+            "end": "",
+            "notes": "2–3 inches of straw or shredded leaves once the ground chills, to prevent frost-heave."
+          },
+          {
+            "task": "Remove winter mulch",
+            "product": "",
+            "cadence": "once",
+            "start": "April 1",
+            "end": "",
+            "notes": "Pull mulch back as shoots emerge so they get light and air."
+          },
+          {
+            "task": "Pest & disease check",
+            "product": "",
+            "cadence": "every 3 weeks",
+            "start": "April 15",
+            "end": "June 20",
+            "notes": "Watch for aphids on buds, and protect bulbs from squirrels and voles — they love tulips (wire mesh over the bed helps)."
+          }
+        ],
+        "4a": [
+          {
+            "task": "Plant bulbs",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "September 25",
+            "end": "",
+            "notes": "Plant 4–6 inches deep, pointed end up, in well-drained soil; mix bulb food into the hole."
+          },
+          {
+            "task": "Fertilize",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "April 10",
+            "end": "",
+            "notes": "Feed lightly with bulb food as shoots break ground in spring."
+          },
+          {
+            "task": "Deadhead",
+            "product": "",
+            "cadence": "once",
+            "start": "May 15",
+            "end": "",
+            "notes": "Snip spent flowers so energy goes to the bulb, not seed — but leave all the foliage."
+          },
+          {
+            "task": "Cut back",
+            "product": "",
+            "cadence": "once",
+            "start": "June 15",
+            "end": "",
+            "notes": "Remove foliage only after it yellows (≈6 weeks past bloom). Never cut or braid green leaves — they're recharging the bulb."
+          },
+          {
+            "task": "Winter mulch",
+            "product": "",
+            "cadence": "once",
+            "start": "November 5",
+            "end": "",
+            "notes": "2–3 inches of straw or shredded leaves once the ground chills, to prevent frost-heave."
+          },
+          {
+            "task": "Remove winter mulch",
+            "product": "",
+            "cadence": "once",
+            "start": "March 25",
+            "end": "",
+            "notes": "Pull mulch back as shoots emerge so they get light and air."
+          },
+          {
+            "task": "Pest & disease check",
+            "product": "",
+            "cadence": "every 3 weeks",
+            "start": "April 10",
+            "end": "June 15",
+            "notes": "Watch for aphids on buds, and protect bulbs from squirrels and voles — they love tulips (wire mesh over the bed helps)."
+          }
+        ],
+        "4b": [
+          {
+            "task": "Plant bulbs",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "October 1",
+            "end": "",
+            "notes": "Plant 4–6 inches deep, pointed end up, in well-drained soil; mix bulb food into the hole."
+          },
+          {
+            "task": "Fertilize",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "April 5",
+            "end": "",
+            "notes": "Feed lightly with bulb food as shoots break ground in spring."
+          },
+          {
+            "task": "Deadhead",
+            "product": "",
+            "cadence": "once",
+            "start": "May 12",
+            "end": "",
+            "notes": "Snip spent flowers so energy goes to the bulb, not seed — but leave all the foliage."
+          },
+          {
+            "task": "Cut back",
+            "product": "",
+            "cadence": "once",
+            "start": "June 12",
+            "end": "",
+            "notes": "Remove foliage only after it yellows (≈6 weeks past bloom). Never cut or braid green leaves — they're recharging the bulb."
+          },
+          {
+            "task": "Winter mulch",
+            "product": "",
+            "cadence": "once",
+            "start": "November 10",
+            "end": "",
+            "notes": "2–3 inches of straw or shredded leaves once the ground chills, to prevent frost-heave."
+          },
+          {
+            "task": "Remove winter mulch",
+            "product": "",
+            "cadence": "once",
+            "start": "March 25",
+            "end": "",
+            "notes": "Pull mulch back as shoots emerge so they get light and air."
+          },
+          {
+            "task": "Pest & disease check",
+            "product": "",
+            "cadence": "every 3 weeks",
+            "start": "April 5",
+            "end": "June 12",
+            "notes": "Watch for aphids on buds, and protect bulbs from squirrels and voles — they love tulips (wire mesh over the bed helps)."
+          }
+        ],
+        "5a": [
+          {
+            "task": "Plant bulbs",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "October 5",
+            "end": "",
+            "notes": "Plant 4–6 inches deep, pointed end up, in well-drained soil; mix bulb food into the hole."
+          },
+          {
+            "task": "Fertilize",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "April 1",
+            "end": "",
+            "notes": "Feed lightly with bulb food as shoots break ground in spring."
+          },
+          {
+            "task": "Deadhead",
+            "product": "",
+            "cadence": "once",
+            "start": "May 6",
+            "end": "",
+            "notes": "Snip spent flowers so energy goes to the bulb, not seed — but leave all the foliage."
+          },
+          {
+            "task": "Cut back",
+            "product": "",
+            "cadence": "once",
+            "start": "June 5",
+            "end": "",
+            "notes": "Remove foliage only after it yellows (≈6 weeks past bloom). Never cut or braid green leaves — they're recharging the bulb."
+          },
+          {
+            "task": "Winter mulch",
+            "product": "",
+            "cadence": "once",
+            "start": "November 15",
+            "end": "",
+            "notes": "2–3 inches of straw or shredded leaves once the ground chills, to prevent frost-heave."
+          },
+          {
+            "task": "Remove winter mulch",
+            "product": "",
+            "cadence": "once",
+            "start": "March 20",
+            "end": "",
+            "notes": "Pull mulch back as shoots emerge so they get light and air."
+          },
+          {
+            "task": "Pest & disease check",
+            "product": "",
+            "cadence": "every 3 weeks",
+            "start": "April 1",
+            "end": "June 5",
+            "notes": "Watch for aphids on buds, and protect bulbs from squirrels and voles — they love tulips (wire mesh over the bed helps)."
+          }
+        ],
+        "5b": [
+          {
+            "task": "Plant bulbs",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "October 10",
+            "end": "",
+            "notes": "Plant 4–6 inches deep, pointed end up, in well-drained soil; mix bulb food into the hole."
+          },
+          {
+            "task": "Fertilize",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "March 28",
+            "end": "",
+            "notes": "Feed lightly with bulb food as shoots break ground in spring."
+          },
+          {
+            "task": "Deadhead",
+            "product": "",
+            "cadence": "once",
+            "start": "May 2",
+            "end": "",
+            "notes": "Snip spent flowers so energy goes to the bulb, not seed — but leave all the foliage."
+          },
+          {
+            "task": "Cut back",
+            "product": "",
+            "cadence": "once",
+            "start": "June 1",
+            "end": "",
+            "notes": "Remove foliage only after it yellows (≈6 weeks past bloom). Never cut or braid green leaves — they're recharging the bulb."
+          },
+          {
+            "task": "Winter mulch",
+            "product": "",
+            "cadence": "once",
+            "start": "November 20",
+            "end": "",
+            "notes": "2–3 inches of straw or shredded leaves once the ground chills, to prevent frost-heave."
+          },
+          {
+            "task": "Remove winter mulch",
+            "product": "",
+            "cadence": "once",
+            "start": "March 20",
+            "end": "",
+            "notes": "Pull mulch back as shoots emerge so they get light and air."
+          },
+          {
+            "task": "Pest & disease check",
+            "product": "",
+            "cadence": "every 3 weeks",
+            "start": "March 28",
+            "end": "June 1",
+            "notes": "Watch for aphids on buds, and protect bulbs from squirrels and voles — they love tulips (wire mesh over the bed helps)."
+          }
+        ],
+        "6a": [
+          {
+            "task": "Plant bulbs",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "October 15",
+            "end": "",
+            "notes": "Plant 4–6 inches deep, pointed end up, in well-drained soil; mix bulb food into the hole."
+          },
+          {
+            "task": "Fertilize",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "March 22",
+            "end": "",
+            "notes": "Feed lightly with bulb food as shoots break ground in spring."
+          },
+          {
+            "task": "Deadhead",
+            "product": "",
+            "cadence": "once",
+            "start": "April 26",
+            "end": "",
+            "notes": "Snip spent flowers so energy goes to the bulb, not seed — but leave all the foliage."
+          },
+          {
+            "task": "Cut back",
+            "product": "",
+            "cadence": "once",
+            "start": "May 25",
+            "end": "",
+            "notes": "Remove foliage only after it yellows (≈6 weeks past bloom). Never cut or braid green leaves — they're recharging the bulb."
+          },
+          {
+            "task": "Winter mulch",
+            "product": "",
+            "cadence": "once",
+            "start": "November 25",
+            "end": "",
+            "notes": "2–3 inches of straw or shredded leaves once the ground chills, to prevent frost-heave."
+          },
+          {
+            "task": "Remove winter mulch",
+            "product": "",
+            "cadence": "once",
+            "start": "March 15",
+            "end": "",
+            "notes": "Pull mulch back as shoots emerge so they get light and air."
+          },
+          {
+            "task": "Pest & disease check",
+            "product": "",
+            "cadence": "every 3 weeks",
+            "start": "March 22",
+            "end": "May 25",
+            "notes": "Watch for aphids on buds, and protect bulbs from squirrels and voles — they love tulips (wire mesh over the bed helps)."
+          }
+        ],
+        "6b": [
+          {
+            "task": "Plant bulbs",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "October 20",
+            "end": "",
+            "notes": "Plant 4–6 inches deep, pointed end up, in well-drained soil; mix bulb food into the hole."
+          },
+          {
+            "task": "Fertilize",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "March 18",
+            "end": "",
+            "notes": "Feed lightly with bulb food as shoots break ground in spring."
+          },
+          {
+            "task": "Deadhead",
+            "product": "",
+            "cadence": "once",
+            "start": "April 22",
+            "end": "",
+            "notes": "Snip spent flowers so energy goes to the bulb, not seed — but leave all the foliage."
+          },
+          {
+            "task": "Cut back",
+            "product": "",
+            "cadence": "once",
+            "start": "May 20",
+            "end": "",
+            "notes": "Remove foliage only after it yellows (≈6 weeks past bloom). Never cut or braid green leaves — they're recharging the bulb."
+          },
+          {
+            "task": "Winter mulch",
+            "product": "",
+            "cadence": "once",
+            "start": "December 1",
+            "end": "",
+            "notes": "2–3 inches of straw or shredded leaves once the ground chills, to prevent frost-heave."
+          },
+          {
+            "task": "Remove winter mulch",
+            "product": "",
+            "cadence": "once",
+            "start": "March 10",
+            "end": "",
+            "notes": "Pull mulch back as shoots emerge so they get light and air."
+          },
+          {
+            "task": "Pest & disease check",
+            "product": "",
+            "cadence": "every 3 weeks",
+            "start": "March 18",
+            "end": "May 20",
+            "notes": "Watch for aphids on buds, and protect bulbs from squirrels and voles — they love tulips (wire mesh over the bed helps)."
+          }
+        ],
+        "7a": [
+          {
+            "task": "Plant bulbs",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "October 30",
+            "end": "",
+            "notes": "Plant 4–6 inches deep, pointed end up, in well-drained soil; mix bulb food into the hole."
+          },
+          {
+            "task": "Fertilize",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "March 12",
+            "end": "",
+            "notes": "Feed lightly with bulb food as shoots break ground in spring."
+          },
+          {
+            "task": "Deadhead",
+            "product": "",
+            "cadence": "once",
+            "start": "April 15",
+            "end": "",
+            "notes": "Snip spent flowers so energy goes to the bulb, not seed — but leave all the foliage."
+          },
+          {
+            "task": "Cut back",
+            "product": "",
+            "cadence": "once",
+            "start": "May 15",
+            "end": "",
+            "notes": "Remove foliage only after it yellows (≈6 weeks past bloom). Never cut or braid green leaves — they're recharging the bulb."
+          },
+          {
+            "task": "Winter mulch",
+            "product": "",
+            "cadence": "once",
+            "start": "December 1",
+            "end": "",
+            "notes": "2–3 inches of straw or shredded leaves once the ground chills, to prevent frost-heave."
+          },
+          {
+            "task": "Remove winter mulch",
+            "product": "",
+            "cadence": "once",
+            "start": "March 1",
+            "end": "",
+            "notes": "Pull mulch back as shoots emerge so they get light and air."
+          },
+          {
+            "task": "Pest & disease check",
+            "product": "",
+            "cadence": "every 3 weeks",
+            "start": "March 12",
+            "end": "May 15",
+            "notes": "Watch for aphids on buds, and protect bulbs from squirrels and voles — they love tulips (wire mesh over the bed helps)."
+          }
+        ],
+        "7b": [
+          {
+            "task": "Plant bulbs",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "November 5",
+            "end": "",
+            "notes": "Plant 4–6 inches deep, pointed end up, in well-drained soil; mix bulb food into the hole."
+          },
+          {
+            "task": "Fertilize",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "March 8",
+            "end": "",
+            "notes": "Feed lightly with bulb food as shoots break ground in spring."
+          },
+          {
+            "task": "Deadhead",
+            "product": "",
+            "cadence": "once",
+            "start": "April 11",
+            "end": "",
+            "notes": "Snip spent flowers so energy goes to the bulb, not seed — but leave all the foliage."
+          },
+          {
+            "task": "Cut back",
+            "product": "",
+            "cadence": "once",
+            "start": "May 10",
+            "end": "",
+            "notes": "Remove foliage only after it yellows (≈6 weeks past bloom). Never cut or braid green leaves — they're recharging the bulb."
+          },
+          {
+            "task": "Winter mulch",
+            "product": "",
+            "cadence": "once",
+            "start": "December 5",
+            "end": "",
+            "notes": "2–3 inches of straw or shredded leaves once the ground chills, to prevent frost-heave."
+          },
+          {
+            "task": "Remove winter mulch",
+            "product": "",
+            "cadence": "once",
+            "start": "February 25",
+            "end": "",
+            "notes": "Pull mulch back as shoots emerge so they get light and air."
+          },
+          {
+            "task": "Pest & disease check",
+            "product": "",
+            "cadence": "every 3 weeks",
+            "start": "March 8",
+            "end": "May 10",
+            "notes": "Watch for aphids on buds, and protect bulbs from squirrels and voles — they love tulips (wire mesh over the bed helps)."
+          }
+        ],
+        "8a": [
+          {
+            "task": "Pre-chill bulbs",
+            "product": "",
+            "cadence": "once",
+            "start": "August 25",
+            "end": "",
+            "notes": "Refrigerate bulbs 10–14 weeks in a paper bag, away from apples/fruit, before planting — essential to get blooms in a warm winter."
+          },
+          {
+            "task": "Plant bulbs",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "November 15",
+            "end": "",
+            "notes": "Plant 4–6 inches deep, pointed end up, in well-drained soil; mix bulb food into the hole. In zones 8+ tulips rarely rebloom; treat as an annual and replant fresh pre-chilled bulbs each fall."
+          },
+          {
+            "task": "Fertilize",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "March 1",
+            "end": "",
+            "notes": "Feed lightly with bulb food as shoots break ground in spring."
+          },
+          {
+            "task": "Deadhead",
+            "product": "",
+            "cadence": "once",
+            "start": "April 3",
+            "end": "",
+            "notes": "Snip spent flowers so energy goes to the bulb, not seed — but leave all the foliage."
+          },
+          {
+            "task": "Cut back",
+            "product": "",
+            "cadence": "once",
+            "start": "May 1",
+            "end": "",
+            "notes": "Remove foliage only after it yellows (≈6 weeks past bloom). Never cut or braid green leaves — they're recharging the bulb."
+          },
+          {
+            "task": "Pest & disease check",
+            "product": "",
+            "cadence": "every 3 weeks",
+            "start": "March 1",
+            "end": "May 1",
+            "notes": "Watch for aphids on buds, and protect bulbs from squirrels and voles — they love tulips (wire mesh over the bed helps)."
+          }
+        ],
+        "8b": [
+          {
+            "task": "Pre-chill bulbs",
+            "product": "",
+            "cadence": "once",
+            "start": "September 1",
+            "end": "",
+            "notes": "Refrigerate bulbs 10–14 weeks in a paper bag, away from apples/fruit, before planting — essential to get blooms in a warm winter."
+          },
+          {
+            "task": "Plant bulbs",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "November 25",
+            "end": "",
+            "notes": "Plant 4–6 inches deep, pointed end up, in well-drained soil; mix bulb food into the hole. In zones 8+ tulips rarely rebloom; treat as an annual and replant fresh pre-chilled bulbs each fall."
+          },
+          {
+            "task": "Fertilize",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "February 22",
+            "end": "",
+            "notes": "Feed lightly with bulb food as shoots break ground in spring."
+          },
+          {
+            "task": "Deadhead",
+            "product": "",
+            "cadence": "once",
+            "start": "March 26",
+            "end": "",
+            "notes": "Snip spent flowers so energy goes to the bulb, not seed — but leave all the foliage."
+          },
+          {
+            "task": "Cut back",
+            "product": "",
+            "cadence": "once",
+            "start": "April 25",
+            "end": "",
+            "notes": "Remove foliage only after it yellows (≈6 weeks past bloom). Never cut or braid green leaves — they're recharging the bulb."
+          },
+          {
+            "task": "Pest & disease check",
+            "product": "",
+            "cadence": "every 3 weeks",
+            "start": "February 22",
+            "end": "April 25",
+            "notes": "Watch for aphids on buds, and protect bulbs from squirrels and voles — they love tulips (wire mesh over the bed helps)."
+          }
+        ],
+        "9a": [
+          {
+            "task": "Pre-chill bulbs",
+            "product": "",
+            "cadence": "once",
+            "start": "September 10",
+            "end": "",
+            "notes": "Refrigerate bulbs 10–14 weeks in a paper bag, away from apples/fruit, before planting — essential to get blooms in a warm winter."
+          },
+          {
+            "task": "Plant bulbs",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "December 10",
+            "end": "",
+            "notes": "Plant 4–6 inches deep, pointed end up, in well-drained soil; mix bulb food into the hole. In zones 8+ tulips rarely rebloom; treat as an annual and replant fresh pre-chilled bulbs each fall."
+          },
+          {
+            "task": "Fertilize",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "February 15",
+            "end": "",
+            "notes": "Feed lightly with bulb food as shoots break ground in spring."
+          },
+          {
+            "task": "Deadhead",
+            "product": "",
+            "cadence": "once",
+            "start": "March 19",
+            "end": "",
+            "notes": "Snip spent flowers so energy goes to the bulb, not seed — but leave all the foliage."
+          },
+          {
+            "task": "Cut back",
+            "product": "",
+            "cadence": "once",
+            "start": "April 15",
+            "end": "",
+            "notes": "Remove foliage only after it yellows (≈6 weeks past bloom). Never cut or braid green leaves — they're recharging the bulb."
+          },
+          {
+            "task": "Pest & disease check",
+            "product": "",
+            "cadence": "every 3 weeks",
+            "start": "February 15",
+            "end": "April 15",
+            "notes": "Watch for aphids on buds, and protect bulbs from squirrels and voles — they love tulips (wire mesh over the bed helps)."
+          }
+        ],
+        "9b": [
+          {
+            "task": "Pre-chill bulbs",
+            "product": "",
+            "cadence": "once",
+            "start": "September 20",
+            "end": "",
+            "notes": "Refrigerate bulbs 10–14 weeks in a paper bag, away from apples/fruit, before planting — essential to get blooms in a warm winter."
+          },
+          {
+            "task": "Plant bulbs",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "December 20",
+            "end": "",
+            "notes": "Plant 4–6 inches deep, pointed end up, in well-drained soil; mix bulb food into the hole. In zones 8+ tulips rarely rebloom; treat as an annual and replant fresh pre-chilled bulbs each fall."
+          },
+          {
+            "task": "Fertilize",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "February 8",
+            "end": "",
+            "notes": "Feed lightly with bulb food as shoots break ground in spring."
+          },
+          {
+            "task": "Deadhead",
+            "product": "",
+            "cadence": "once",
+            "start": "March 11",
+            "end": "",
+            "notes": "Snip spent flowers so energy goes to the bulb, not seed — but leave all the foliage."
+          },
+          {
+            "task": "Cut back",
+            "product": "",
+            "cadence": "once",
+            "start": "April 8",
+            "end": "",
+            "notes": "Remove foliage only after it yellows (≈6 weeks past bloom). Never cut or braid green leaves — they're recharging the bulb."
+          },
+          {
+            "task": "Pest & disease check",
+            "product": "",
+            "cadence": "every 3 weeks",
+            "start": "February 8",
+            "end": "April 8",
+            "notes": "Watch for aphids on buds, and protect bulbs from squirrels and voles — they love tulips (wire mesh over the bed helps)."
+          }
+        ],
+        "10a": [
+          {
+            "task": "Pre-chill bulbs",
+            "product": "",
+            "cadence": "once",
+            "start": "September 25",
+            "end": "",
+            "notes": "Refrigerate bulbs 10–14 weeks in a paper bag, away from apples/fruit, before planting — essential to get blooms in a warm winter."
+          },
+          {
+            "task": "Plant bulbs",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "December 20",
+            "end": "",
+            "notes": "Plant 4–6 inches deep, pointed end up, in well-drained soil; mix bulb food into the hole. In zones 8+ tulips rarely rebloom; treat as an annual and replant fresh pre-chilled bulbs each fall."
+          },
+          {
+            "task": "Fertilize",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "February 1",
+            "end": "",
+            "notes": "Feed lightly with bulb food as shoots break ground in spring."
+          },
+          {
+            "task": "Deadhead",
+            "product": "",
+            "cadence": "once",
+            "start": "March 4",
+            "end": "",
+            "notes": "Snip spent flowers so energy goes to the bulb, not seed — but leave all the foliage."
+          },
+          {
+            "task": "Cut back",
+            "product": "",
+            "cadence": "once",
+            "start": "April 1",
+            "end": "",
+            "notes": "Remove foliage only after it yellows (≈6 weeks past bloom). Never cut or braid green leaves — they're recharging the bulb."
+          },
+          {
+            "task": "Pest & disease check",
+            "product": "",
+            "cadence": "every 3 weeks",
+            "start": "February 1",
+            "end": "April 1",
+            "notes": "Watch for aphids on buds, and protect bulbs from squirrels and voles — they love tulips (wire mesh over the bed helps)."
+          }
+        ],
+        "10b": [
+          {
+            "task": "Pre-chill bulbs",
+            "product": "",
+            "cadence": "once",
+            "start": "October 1",
+            "end": "",
+            "notes": "Refrigerate bulbs 10–14 weeks in a paper bag, away from apples/fruit, before planting — essential to get blooms in a warm winter."
+          },
+          {
+            "task": "Plant bulbs",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "December 28",
+            "end": "",
+            "notes": "Plant 4–6 inches deep, pointed end up, in well-drained soil; mix bulb food into the hole. In zones 8+ tulips rarely rebloom; treat as an annual and replant fresh pre-chilled bulbs each fall."
+          },
+          {
+            "task": "Fertilize",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "January 28",
+            "end": "",
+            "notes": "Feed lightly with bulb food as shoots break ground in spring."
+          },
+          {
+            "task": "Deadhead",
+            "product": "",
+            "cadence": "once",
+            "start": "February 28",
+            "end": "",
+            "notes": "Snip spent flowers so energy goes to the bulb, not seed — but leave all the foliage."
+          },
+          {
+            "task": "Cut back",
+            "product": "",
+            "cadence": "once",
+            "start": "March 25",
+            "end": "",
+            "notes": "Remove foliage only after it yellows (≈6 weeks past bloom). Never cut or braid green leaves — they're recharging the bulb."
+          },
+          {
+            "task": "Pest & disease check",
+            "product": "",
+            "cadence": "every 3 weeks",
+            "start": "January 28",
+            "end": "March 25",
+            "notes": "Watch for aphids on buds, and protect bulbs from squirrels and voles — they love tulips (wire mesh over the bed helps)."
+          }
+        ]
+      }
+    },
+    "Daffodil": {
+      "description": "Cheerful trumpet-shaped spring bulb (Narcissus). Tough and long-lived — naturalizes into bigger clumps each year. Deer- and rodent-proof because the bulbs are toxic.",
+      "photo_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Narcissus_poeticus_subsp._radiiflorus.1658.jpg/330px-Narcissus_poeticus_subsp._radiiflorus.1658.jpg",
+      "zones": {
+        "3a": [
+          {
+            "task": "Plant bulbs",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "September 15",
+            "end": "",
+            "notes": "Plant 4–6 inches deep, pointed end up, in well-drained soil; mix bulb food into the hole."
+          },
+          {
+            "task": "Fertilize",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "April 20",
+            "end": "",
+            "notes": "Feed with bulb food as shoots emerge; daffodils reward feeding by multiplying."
+          },
+          {
+            "task": "Deadhead",
+            "product": "",
+            "cadence": "once",
+            "start": "May 24",
+            "end": "",
+            "notes": "Snip spent flowers so energy goes to the bulb, not seed — but leave all the foliage."
+          },
+          {
+            "task": "Cut back",
+            "product": "",
+            "cadence": "once",
+            "start": "June 25",
+            "end": "",
+            "notes": "Remove foliage only after it yellows (≈6 weeks past bloom). Never cut or braid green leaves — they're recharging the bulb."
+          },
+          {
+            "task": "Winter mulch",
+            "product": "",
+            "cadence": "once",
+            "start": "November 1",
+            "end": "",
+            "notes": "2–3 inches of straw or shredded leaves once the ground chills, to prevent frost-heave."
+          },
+          {
+            "task": "Remove winter mulch",
+            "product": "",
+            "cadence": "once",
+            "start": "April 1",
+            "end": "",
+            "notes": "Pull mulch back as shoots emerge so they get light and air."
+          }
+        ],
+        "3b": [
+          {
+            "task": "Plant bulbs",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "September 20",
+            "end": "",
+            "notes": "Plant 4–6 inches deep, pointed end up, in well-drained soil; mix bulb food into the hole."
+          },
+          {
+            "task": "Fertilize",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "April 15",
+            "end": "",
+            "notes": "Feed with bulb food as shoots emerge; daffodils reward feeding by multiplying."
+          },
+          {
+            "task": "Deadhead",
+            "product": "",
+            "cadence": "once",
+            "start": "May 19",
+            "end": "",
+            "notes": "Snip spent flowers so energy goes to the bulb, not seed — but leave all the foliage."
+          },
+          {
+            "task": "Cut back",
+            "product": "",
+            "cadence": "once",
+            "start": "June 20",
+            "end": "",
+            "notes": "Remove foliage only after it yellows (≈6 weeks past bloom). Never cut or braid green leaves — they're recharging the bulb."
+          },
+          {
+            "task": "Winter mulch",
+            "product": "",
+            "cadence": "once",
+            "start": "November 1",
+            "end": "",
+            "notes": "2–3 inches of straw or shredded leaves once the ground chills, to prevent frost-heave."
+          },
+          {
+            "task": "Remove winter mulch",
+            "product": "",
+            "cadence": "once",
+            "start": "April 1",
+            "end": "",
+            "notes": "Pull mulch back as shoots emerge so they get light and air."
+          }
+        ],
+        "4a": [
+          {
+            "task": "Plant bulbs",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "September 25",
+            "end": "",
+            "notes": "Plant 4–6 inches deep, pointed end up, in well-drained soil; mix bulb food into the hole."
+          },
+          {
+            "task": "Fertilize",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "April 10",
+            "end": "",
+            "notes": "Feed with bulb food as shoots emerge; daffodils reward feeding by multiplying."
+          },
+          {
+            "task": "Deadhead",
+            "product": "",
+            "cadence": "once",
+            "start": "May 15",
+            "end": "",
+            "notes": "Snip spent flowers so energy goes to the bulb, not seed — but leave all the foliage."
+          },
+          {
+            "task": "Cut back",
+            "product": "",
+            "cadence": "once",
+            "start": "June 15",
+            "end": "",
+            "notes": "Remove foliage only after it yellows (≈6 weeks past bloom). Never cut or braid green leaves — they're recharging the bulb."
+          },
+          {
+            "task": "Winter mulch",
+            "product": "",
+            "cadence": "once",
+            "start": "November 5",
+            "end": "",
+            "notes": "2–3 inches of straw or shredded leaves once the ground chills, to prevent frost-heave."
+          },
+          {
+            "task": "Remove winter mulch",
+            "product": "",
+            "cadence": "once",
+            "start": "March 25",
+            "end": "",
+            "notes": "Pull mulch back as shoots emerge so they get light and air."
+          }
+        ],
+        "4b": [
+          {
+            "task": "Plant bulbs",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "October 1",
+            "end": "",
+            "notes": "Plant 4–6 inches deep, pointed end up, in well-drained soil; mix bulb food into the hole."
+          },
+          {
+            "task": "Fertilize",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "April 5",
+            "end": "",
+            "notes": "Feed with bulb food as shoots emerge; daffodils reward feeding by multiplying."
+          },
+          {
+            "task": "Deadhead",
+            "product": "",
+            "cadence": "once",
+            "start": "May 12",
+            "end": "",
+            "notes": "Snip spent flowers so energy goes to the bulb, not seed — but leave all the foliage."
+          },
+          {
+            "task": "Cut back",
+            "product": "",
+            "cadence": "once",
+            "start": "June 12",
+            "end": "",
+            "notes": "Remove foliage only after it yellows (≈6 weeks past bloom). Never cut or braid green leaves — they're recharging the bulb."
+          },
+          {
+            "task": "Winter mulch",
+            "product": "",
+            "cadence": "once",
+            "start": "November 10",
+            "end": "",
+            "notes": "2–3 inches of straw or shredded leaves once the ground chills, to prevent frost-heave."
+          },
+          {
+            "task": "Remove winter mulch",
+            "product": "",
+            "cadence": "once",
+            "start": "March 25",
+            "end": "",
+            "notes": "Pull mulch back as shoots emerge so they get light and air."
+          }
+        ],
+        "5a": [
+          {
+            "task": "Plant bulbs",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "October 5",
+            "end": "",
+            "notes": "Plant 4–6 inches deep, pointed end up, in well-drained soil; mix bulb food into the hole."
+          },
+          {
+            "task": "Fertilize",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "April 1",
+            "end": "",
+            "notes": "Feed with bulb food as shoots emerge; daffodils reward feeding by multiplying."
+          },
+          {
+            "task": "Deadhead",
+            "product": "",
+            "cadence": "once",
+            "start": "May 6",
+            "end": "",
+            "notes": "Snip spent flowers so energy goes to the bulb, not seed — but leave all the foliage."
+          },
+          {
+            "task": "Cut back",
+            "product": "",
+            "cadence": "once",
+            "start": "June 5",
+            "end": "",
+            "notes": "Remove foliage only after it yellows (≈6 weeks past bloom). Never cut or braid green leaves — they're recharging the bulb."
+          },
+          {
+            "task": "Winter mulch",
+            "product": "",
+            "cadence": "once",
+            "start": "November 15",
+            "end": "",
+            "notes": "2–3 inches of straw or shredded leaves once the ground chills, to prevent frost-heave."
+          },
+          {
+            "task": "Remove winter mulch",
+            "product": "",
+            "cadence": "once",
+            "start": "March 20",
+            "end": "",
+            "notes": "Pull mulch back as shoots emerge so they get light and air."
+          }
+        ],
+        "5b": [
+          {
+            "task": "Plant bulbs",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "October 10",
+            "end": "",
+            "notes": "Plant 4–6 inches deep, pointed end up, in well-drained soil; mix bulb food into the hole."
+          },
+          {
+            "task": "Fertilize",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "March 28",
+            "end": "",
+            "notes": "Feed with bulb food as shoots emerge; daffodils reward feeding by multiplying."
+          },
+          {
+            "task": "Deadhead",
+            "product": "",
+            "cadence": "once",
+            "start": "May 2",
+            "end": "",
+            "notes": "Snip spent flowers so energy goes to the bulb, not seed — but leave all the foliage."
+          },
+          {
+            "task": "Cut back",
+            "product": "",
+            "cadence": "once",
+            "start": "June 1",
+            "end": "",
+            "notes": "Remove foliage only after it yellows (≈6 weeks past bloom). Never cut or braid green leaves — they're recharging the bulb."
+          },
+          {
+            "task": "Winter mulch",
+            "product": "",
+            "cadence": "once",
+            "start": "November 20",
+            "end": "",
+            "notes": "2–3 inches of straw or shredded leaves once the ground chills, to prevent frost-heave."
+          },
+          {
+            "task": "Remove winter mulch",
+            "product": "",
+            "cadence": "once",
+            "start": "March 20",
+            "end": "",
+            "notes": "Pull mulch back as shoots emerge so they get light and air."
+          }
+        ],
+        "6a": [
+          {
+            "task": "Plant bulbs",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "October 15",
+            "end": "",
+            "notes": "Plant 4–6 inches deep, pointed end up, in well-drained soil; mix bulb food into the hole."
+          },
+          {
+            "task": "Fertilize",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "March 22",
+            "end": "",
+            "notes": "Feed with bulb food as shoots emerge; daffodils reward feeding by multiplying."
+          },
+          {
+            "task": "Deadhead",
+            "product": "",
+            "cadence": "once",
+            "start": "April 26",
+            "end": "",
+            "notes": "Snip spent flowers so energy goes to the bulb, not seed — but leave all the foliage."
+          },
+          {
+            "task": "Cut back",
+            "product": "",
+            "cadence": "once",
+            "start": "May 25",
+            "end": "",
+            "notes": "Remove foliage only after it yellows (≈6 weeks past bloom). Never cut or braid green leaves — they're recharging the bulb."
+          },
+          {
+            "task": "Winter mulch",
+            "product": "",
+            "cadence": "once",
+            "start": "November 25",
+            "end": "",
+            "notes": "2–3 inches of straw or shredded leaves once the ground chills, to prevent frost-heave."
+          },
+          {
+            "task": "Remove winter mulch",
+            "product": "",
+            "cadence": "once",
+            "start": "March 15",
+            "end": "",
+            "notes": "Pull mulch back as shoots emerge so they get light and air."
+          }
+        ],
+        "6b": [
+          {
+            "task": "Plant bulbs",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "October 20",
+            "end": "",
+            "notes": "Plant 4–6 inches deep, pointed end up, in well-drained soil; mix bulb food into the hole."
+          },
+          {
+            "task": "Fertilize",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "March 18",
+            "end": "",
+            "notes": "Feed with bulb food as shoots emerge; daffodils reward feeding by multiplying."
+          },
+          {
+            "task": "Deadhead",
+            "product": "",
+            "cadence": "once",
+            "start": "April 22",
+            "end": "",
+            "notes": "Snip spent flowers so energy goes to the bulb, not seed — but leave all the foliage."
+          },
+          {
+            "task": "Cut back",
+            "product": "",
+            "cadence": "once",
+            "start": "May 20",
+            "end": "",
+            "notes": "Remove foliage only after it yellows (≈6 weeks past bloom). Never cut or braid green leaves — they're recharging the bulb."
+          },
+          {
+            "task": "Winter mulch",
+            "product": "",
+            "cadence": "once",
+            "start": "December 1",
+            "end": "",
+            "notes": "2–3 inches of straw or shredded leaves once the ground chills, to prevent frost-heave."
+          },
+          {
+            "task": "Remove winter mulch",
+            "product": "",
+            "cadence": "once",
+            "start": "March 10",
+            "end": "",
+            "notes": "Pull mulch back as shoots emerge so they get light and air."
+          }
+        ],
+        "7a": [
+          {
+            "task": "Plant bulbs",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "October 30",
+            "end": "",
+            "notes": "Plant 4–6 inches deep, pointed end up, in well-drained soil; mix bulb food into the hole."
+          },
+          {
+            "task": "Fertilize",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "March 12",
+            "end": "",
+            "notes": "Feed with bulb food as shoots emerge; daffodils reward feeding by multiplying."
+          },
+          {
+            "task": "Deadhead",
+            "product": "",
+            "cadence": "once",
+            "start": "April 15",
+            "end": "",
+            "notes": "Snip spent flowers so energy goes to the bulb, not seed — but leave all the foliage."
+          },
+          {
+            "task": "Cut back",
+            "product": "",
+            "cadence": "once",
+            "start": "May 15",
+            "end": "",
+            "notes": "Remove foliage only after it yellows (≈6 weeks past bloom). Never cut or braid green leaves — they're recharging the bulb."
+          },
+          {
+            "task": "Winter mulch",
+            "product": "",
+            "cadence": "once",
+            "start": "December 1",
+            "end": "",
+            "notes": "2–3 inches of straw or shredded leaves once the ground chills, to prevent frost-heave."
+          },
+          {
+            "task": "Remove winter mulch",
+            "product": "",
+            "cadence": "once",
+            "start": "March 1",
+            "end": "",
+            "notes": "Pull mulch back as shoots emerge so they get light and air."
+          }
+        ],
+        "7b": [
+          {
+            "task": "Plant bulbs",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "November 5",
+            "end": "",
+            "notes": "Plant 4–6 inches deep, pointed end up, in well-drained soil; mix bulb food into the hole."
+          },
+          {
+            "task": "Fertilize",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "March 8",
+            "end": "",
+            "notes": "Feed with bulb food as shoots emerge; daffodils reward feeding by multiplying."
+          },
+          {
+            "task": "Deadhead",
+            "product": "",
+            "cadence": "once",
+            "start": "April 11",
+            "end": "",
+            "notes": "Snip spent flowers so energy goes to the bulb, not seed — but leave all the foliage."
+          },
+          {
+            "task": "Cut back",
+            "product": "",
+            "cadence": "once",
+            "start": "May 10",
+            "end": "",
+            "notes": "Remove foliage only after it yellows (≈6 weeks past bloom). Never cut or braid green leaves — they're recharging the bulb."
+          },
+          {
+            "task": "Winter mulch",
+            "product": "",
+            "cadence": "once",
+            "start": "December 5",
+            "end": "",
+            "notes": "2–3 inches of straw or shredded leaves once the ground chills, to prevent frost-heave."
+          },
+          {
+            "task": "Remove winter mulch",
+            "product": "",
+            "cadence": "once",
+            "start": "February 25",
+            "end": "",
+            "notes": "Pull mulch back as shoots emerge so they get light and air."
+          }
+        ],
+        "8a": [
+          {
+            "task": "Pre-chill bulbs",
+            "product": "",
+            "cadence": "once",
+            "start": "August 25",
+            "end": "",
+            "notes": "Refrigerate bulbs 10–14 weeks in a paper bag, away from apples/fruit, before planting — essential to get blooms in a warm winter."
+          },
+          {
+            "task": "Plant bulbs",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "November 15",
+            "end": "",
+            "notes": "Plant 4–6 inches deep, pointed end up, in well-drained soil; mix bulb food into the hole. In zones 9–10 daffodils need pre-chilling and may bloom only once — pick low-chill types like 'Erlicheer' or paperwhites."
+          },
+          {
+            "task": "Fertilize",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "March 1",
+            "end": "",
+            "notes": "Feed with bulb food as shoots emerge; daffodils reward feeding by multiplying."
+          },
+          {
+            "task": "Deadhead",
+            "product": "",
+            "cadence": "once",
+            "start": "April 3",
+            "end": "",
+            "notes": "Snip spent flowers so energy goes to the bulb, not seed — but leave all the foliage."
+          },
+          {
+            "task": "Cut back",
+            "product": "",
+            "cadence": "once",
+            "start": "May 1",
+            "end": "",
+            "notes": "Remove foliage only after it yellows (≈6 weeks past bloom). Never cut or braid green leaves — they're recharging the bulb."
+          }
+        ],
+        "8b": [
+          {
+            "task": "Pre-chill bulbs",
+            "product": "",
+            "cadence": "once",
+            "start": "September 1",
+            "end": "",
+            "notes": "Refrigerate bulbs 10–14 weeks in a paper bag, away from apples/fruit, before planting — essential to get blooms in a warm winter."
+          },
+          {
+            "task": "Plant bulbs",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "November 25",
+            "end": "",
+            "notes": "Plant 4–6 inches deep, pointed end up, in well-drained soil; mix bulb food into the hole. In zones 9–10 daffodils need pre-chilling and may bloom only once — pick low-chill types like 'Erlicheer' or paperwhites."
+          },
+          {
+            "task": "Fertilize",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "February 22",
+            "end": "",
+            "notes": "Feed with bulb food as shoots emerge; daffodils reward feeding by multiplying."
+          },
+          {
+            "task": "Deadhead",
+            "product": "",
+            "cadence": "once",
+            "start": "March 26",
+            "end": "",
+            "notes": "Snip spent flowers so energy goes to the bulb, not seed — but leave all the foliage."
+          },
+          {
+            "task": "Cut back",
+            "product": "",
+            "cadence": "once",
+            "start": "April 25",
+            "end": "",
+            "notes": "Remove foliage only after it yellows (≈6 weeks past bloom). Never cut or braid green leaves — they're recharging the bulb."
+          }
+        ],
+        "9a": [
+          {
+            "task": "Pre-chill bulbs",
+            "product": "",
+            "cadence": "once",
+            "start": "September 10",
+            "end": "",
+            "notes": "Refrigerate bulbs 10–14 weeks in a paper bag, away from apples/fruit, before planting — essential to get blooms in a warm winter."
+          },
+          {
+            "task": "Plant bulbs",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "December 10",
+            "end": "",
+            "notes": "Plant 4–6 inches deep, pointed end up, in well-drained soil; mix bulb food into the hole. In zones 9–10 daffodils need pre-chilling and may bloom only once — pick low-chill types like 'Erlicheer' or paperwhites."
+          },
+          {
+            "task": "Fertilize",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "February 15",
+            "end": "",
+            "notes": "Feed with bulb food as shoots emerge; daffodils reward feeding by multiplying."
+          },
+          {
+            "task": "Deadhead",
+            "product": "",
+            "cadence": "once",
+            "start": "March 19",
+            "end": "",
+            "notes": "Snip spent flowers so energy goes to the bulb, not seed — but leave all the foliage."
+          },
+          {
+            "task": "Cut back",
+            "product": "",
+            "cadence": "once",
+            "start": "April 15",
+            "end": "",
+            "notes": "Remove foliage only after it yellows (≈6 weeks past bloom). Never cut or braid green leaves — they're recharging the bulb."
+          }
+        ],
+        "9b": [
+          {
+            "task": "Pre-chill bulbs",
+            "product": "",
+            "cadence": "once",
+            "start": "September 20",
+            "end": "",
+            "notes": "Refrigerate bulbs 10–14 weeks in a paper bag, away from apples/fruit, before planting — essential to get blooms in a warm winter."
+          },
+          {
+            "task": "Plant bulbs",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "December 20",
+            "end": "",
+            "notes": "Plant 4–6 inches deep, pointed end up, in well-drained soil; mix bulb food into the hole. In zones 9–10 daffodils need pre-chilling and may bloom only once — pick low-chill types like 'Erlicheer' or paperwhites."
+          },
+          {
+            "task": "Fertilize",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "February 8",
+            "end": "",
+            "notes": "Feed with bulb food as shoots emerge; daffodils reward feeding by multiplying."
+          },
+          {
+            "task": "Deadhead",
+            "product": "",
+            "cadence": "once",
+            "start": "March 11",
+            "end": "",
+            "notes": "Snip spent flowers so energy goes to the bulb, not seed — but leave all the foliage."
+          },
+          {
+            "task": "Cut back",
+            "product": "",
+            "cadence": "once",
+            "start": "April 8",
+            "end": "",
+            "notes": "Remove foliage only after it yellows (≈6 weeks past bloom). Never cut or braid green leaves — they're recharging the bulb."
+          }
+        ],
+        "10a": [
+          {
+            "task": "Pre-chill bulbs",
+            "product": "",
+            "cadence": "once",
+            "start": "September 25",
+            "end": "",
+            "notes": "Refrigerate bulbs 10–14 weeks in a paper bag, away from apples/fruit, before planting — essential to get blooms in a warm winter."
+          },
+          {
+            "task": "Plant bulbs",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "December 20",
+            "end": "",
+            "notes": "Plant 4–6 inches deep, pointed end up, in well-drained soil; mix bulb food into the hole. In zones 9–10 daffodils need pre-chilling and may bloom only once — pick low-chill types like 'Erlicheer' or paperwhites."
+          },
+          {
+            "task": "Fertilize",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "February 1",
+            "end": "",
+            "notes": "Feed with bulb food as shoots emerge; daffodils reward feeding by multiplying."
+          },
+          {
+            "task": "Deadhead",
+            "product": "",
+            "cadence": "once",
+            "start": "March 4",
+            "end": "",
+            "notes": "Snip spent flowers so energy goes to the bulb, not seed — but leave all the foliage."
+          },
+          {
+            "task": "Cut back",
+            "product": "",
+            "cadence": "once",
+            "start": "April 1",
+            "end": "",
+            "notes": "Remove foliage only after it yellows (≈6 weeks past bloom). Never cut or braid green leaves — they're recharging the bulb."
+          }
+        ],
+        "10b": [
+          {
+            "task": "Pre-chill bulbs",
+            "product": "",
+            "cadence": "once",
+            "start": "October 1",
+            "end": "",
+            "notes": "Refrigerate bulbs 10–14 weeks in a paper bag, away from apples/fruit, before planting — essential to get blooms in a warm winter."
+          },
+          {
+            "task": "Plant bulbs",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "December 28",
+            "end": "",
+            "notes": "Plant 4–6 inches deep, pointed end up, in well-drained soil; mix bulb food into the hole. In zones 9–10 daffodils need pre-chilling and may bloom only once — pick low-chill types like 'Erlicheer' or paperwhites."
+          },
+          {
+            "task": "Fertilize",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "January 28",
+            "end": "",
+            "notes": "Feed with bulb food as shoots emerge; daffodils reward feeding by multiplying."
+          },
+          {
+            "task": "Deadhead",
+            "product": "",
+            "cadence": "once",
+            "start": "February 28",
+            "end": "",
+            "notes": "Snip spent flowers so energy goes to the bulb, not seed — but leave all the foliage."
+          },
+          {
+            "task": "Cut back",
+            "product": "",
+            "cadence": "once",
+            "start": "March 25",
+            "end": "",
+            "notes": "Remove foliage only after it yellows (≈6 weeks past bloom). Never cut or braid green leaves — they're recharging the bulb."
+          }
+        ]
+      }
+    },
+    "Hyacinth": {
+      "description": "Intensely fragrant spring bulb with dense spikes of waxy florets, in blue, pink, white and purple. Fall-planted for early-to-mid spring bloom; flowers are biggest the first year.",
+      "photo_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Hyacinth_-_Anglesey_Abbey.jpg/330px-Hyacinth_-_Anglesey_Abbey.jpg",
+      "zones": {
+        "3a": [
+          {
+            "task": "Plant bulbs",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "September 15",
+            "end": "",
+            "notes": "Plant 4–6 inches deep, pointed end up, in well-drained soil; mix bulb food into the hole."
+          },
+          {
+            "task": "Fertilize",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "April 20",
+            "end": "",
+            "notes": "Feed with bulb food as shoots emerge to support the big fragrant spikes."
+          },
+          {
+            "task": "Deadhead",
+            "product": "",
+            "cadence": "once",
+            "start": "May 24",
+            "end": "",
+            "notes": "Snip spent flowers so energy goes to the bulb, not seed — but leave all the foliage."
+          },
+          {
+            "task": "Cut back",
+            "product": "",
+            "cadence": "once",
+            "start": "June 25",
+            "end": "",
+            "notes": "Remove foliage only after it yellows (≈6 weeks past bloom). Never cut or braid green leaves — they're recharging the bulb."
+          },
+          {
+            "task": "Winter mulch",
+            "product": "",
+            "cadence": "once",
+            "start": "November 1",
+            "end": "",
+            "notes": "2–3 inches of straw or shredded leaves once the ground chills, to prevent frost-heave."
+          },
+          {
+            "task": "Remove winter mulch",
+            "product": "",
+            "cadence": "once",
+            "start": "April 1",
+            "end": "",
+            "notes": "Pull mulch back as shoots emerge so they get light and air."
+          },
+          {
+            "task": "Pest & disease check",
+            "product": "",
+            "cadence": "every 3 weeks",
+            "start": "April 20",
+            "end": "June 25",
+            "notes": "Few pests; watch for aphids. Tip: wear gloves when handling the bulbs — they can irritate skin."
+          }
+        ],
+        "3b": [
+          {
+            "task": "Plant bulbs",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "September 20",
+            "end": "",
+            "notes": "Plant 4–6 inches deep, pointed end up, in well-drained soil; mix bulb food into the hole."
+          },
+          {
+            "task": "Fertilize",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "April 15",
+            "end": "",
+            "notes": "Feed with bulb food as shoots emerge to support the big fragrant spikes."
+          },
+          {
+            "task": "Deadhead",
+            "product": "",
+            "cadence": "once",
+            "start": "May 19",
+            "end": "",
+            "notes": "Snip spent flowers so energy goes to the bulb, not seed — but leave all the foliage."
+          },
+          {
+            "task": "Cut back",
+            "product": "",
+            "cadence": "once",
+            "start": "June 20",
+            "end": "",
+            "notes": "Remove foliage only after it yellows (≈6 weeks past bloom). Never cut or braid green leaves — they're recharging the bulb."
+          },
+          {
+            "task": "Winter mulch",
+            "product": "",
+            "cadence": "once",
+            "start": "November 1",
+            "end": "",
+            "notes": "2–3 inches of straw or shredded leaves once the ground chills, to prevent frost-heave."
+          },
+          {
+            "task": "Remove winter mulch",
+            "product": "",
+            "cadence": "once",
+            "start": "April 1",
+            "end": "",
+            "notes": "Pull mulch back as shoots emerge so they get light and air."
+          },
+          {
+            "task": "Pest & disease check",
+            "product": "",
+            "cadence": "every 3 weeks",
+            "start": "April 15",
+            "end": "June 20",
+            "notes": "Few pests; watch for aphids. Tip: wear gloves when handling the bulbs — they can irritate skin."
+          }
+        ],
+        "4a": [
+          {
+            "task": "Plant bulbs",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "September 25",
+            "end": "",
+            "notes": "Plant 4–6 inches deep, pointed end up, in well-drained soil; mix bulb food into the hole."
+          },
+          {
+            "task": "Fertilize",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "April 10",
+            "end": "",
+            "notes": "Feed with bulb food as shoots emerge to support the big fragrant spikes."
+          },
+          {
+            "task": "Deadhead",
+            "product": "",
+            "cadence": "once",
+            "start": "May 15",
+            "end": "",
+            "notes": "Snip spent flowers so energy goes to the bulb, not seed — but leave all the foliage."
+          },
+          {
+            "task": "Cut back",
+            "product": "",
+            "cadence": "once",
+            "start": "June 15",
+            "end": "",
+            "notes": "Remove foliage only after it yellows (≈6 weeks past bloom). Never cut or braid green leaves — they're recharging the bulb."
+          },
+          {
+            "task": "Winter mulch",
+            "product": "",
+            "cadence": "once",
+            "start": "November 5",
+            "end": "",
+            "notes": "2–3 inches of straw or shredded leaves once the ground chills, to prevent frost-heave."
+          },
+          {
+            "task": "Remove winter mulch",
+            "product": "",
+            "cadence": "once",
+            "start": "March 25",
+            "end": "",
+            "notes": "Pull mulch back as shoots emerge so they get light and air."
+          },
+          {
+            "task": "Pest & disease check",
+            "product": "",
+            "cadence": "every 3 weeks",
+            "start": "April 10",
+            "end": "June 15",
+            "notes": "Few pests; watch for aphids. Tip: wear gloves when handling the bulbs — they can irritate skin."
+          }
+        ],
+        "4b": [
+          {
+            "task": "Plant bulbs",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "October 1",
+            "end": "",
+            "notes": "Plant 4–6 inches deep, pointed end up, in well-drained soil; mix bulb food into the hole."
+          },
+          {
+            "task": "Fertilize",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "April 5",
+            "end": "",
+            "notes": "Feed with bulb food as shoots emerge to support the big fragrant spikes."
+          },
+          {
+            "task": "Deadhead",
+            "product": "",
+            "cadence": "once",
+            "start": "May 12",
+            "end": "",
+            "notes": "Snip spent flowers so energy goes to the bulb, not seed — but leave all the foliage."
+          },
+          {
+            "task": "Cut back",
+            "product": "",
+            "cadence": "once",
+            "start": "June 12",
+            "end": "",
+            "notes": "Remove foliage only after it yellows (≈6 weeks past bloom). Never cut or braid green leaves — they're recharging the bulb."
+          },
+          {
+            "task": "Winter mulch",
+            "product": "",
+            "cadence": "once",
+            "start": "November 10",
+            "end": "",
+            "notes": "2–3 inches of straw or shredded leaves once the ground chills, to prevent frost-heave."
+          },
+          {
+            "task": "Remove winter mulch",
+            "product": "",
+            "cadence": "once",
+            "start": "March 25",
+            "end": "",
+            "notes": "Pull mulch back as shoots emerge so they get light and air."
+          },
+          {
+            "task": "Pest & disease check",
+            "product": "",
+            "cadence": "every 3 weeks",
+            "start": "April 5",
+            "end": "June 12",
+            "notes": "Few pests; watch for aphids. Tip: wear gloves when handling the bulbs — they can irritate skin."
+          }
+        ],
+        "5a": [
+          {
+            "task": "Plant bulbs",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "October 5",
+            "end": "",
+            "notes": "Plant 4–6 inches deep, pointed end up, in well-drained soil; mix bulb food into the hole."
+          },
+          {
+            "task": "Fertilize",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "April 1",
+            "end": "",
+            "notes": "Feed with bulb food as shoots emerge to support the big fragrant spikes."
+          },
+          {
+            "task": "Deadhead",
+            "product": "",
+            "cadence": "once",
+            "start": "May 6",
+            "end": "",
+            "notes": "Snip spent flowers so energy goes to the bulb, not seed — but leave all the foliage."
+          },
+          {
+            "task": "Cut back",
+            "product": "",
+            "cadence": "once",
+            "start": "June 5",
+            "end": "",
+            "notes": "Remove foliage only after it yellows (≈6 weeks past bloom). Never cut or braid green leaves — they're recharging the bulb."
+          },
+          {
+            "task": "Winter mulch",
+            "product": "",
+            "cadence": "once",
+            "start": "November 15",
+            "end": "",
+            "notes": "2–3 inches of straw or shredded leaves once the ground chills, to prevent frost-heave."
+          },
+          {
+            "task": "Remove winter mulch",
+            "product": "",
+            "cadence": "once",
+            "start": "March 20",
+            "end": "",
+            "notes": "Pull mulch back as shoots emerge so they get light and air."
+          },
+          {
+            "task": "Pest & disease check",
+            "product": "",
+            "cadence": "every 3 weeks",
+            "start": "April 1",
+            "end": "June 5",
+            "notes": "Few pests; watch for aphids. Tip: wear gloves when handling the bulbs — they can irritate skin."
+          }
+        ],
+        "5b": [
+          {
+            "task": "Plant bulbs",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "October 10",
+            "end": "",
+            "notes": "Plant 4–6 inches deep, pointed end up, in well-drained soil; mix bulb food into the hole."
+          },
+          {
+            "task": "Fertilize",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "March 28",
+            "end": "",
+            "notes": "Feed with bulb food as shoots emerge to support the big fragrant spikes."
+          },
+          {
+            "task": "Deadhead",
+            "product": "",
+            "cadence": "once",
+            "start": "May 2",
+            "end": "",
+            "notes": "Snip spent flowers so energy goes to the bulb, not seed — but leave all the foliage."
+          },
+          {
+            "task": "Cut back",
+            "product": "",
+            "cadence": "once",
+            "start": "June 1",
+            "end": "",
+            "notes": "Remove foliage only after it yellows (≈6 weeks past bloom). Never cut or braid green leaves — they're recharging the bulb."
+          },
+          {
+            "task": "Winter mulch",
+            "product": "",
+            "cadence": "once",
+            "start": "November 20",
+            "end": "",
+            "notes": "2–3 inches of straw or shredded leaves once the ground chills, to prevent frost-heave."
+          },
+          {
+            "task": "Remove winter mulch",
+            "product": "",
+            "cadence": "once",
+            "start": "March 20",
+            "end": "",
+            "notes": "Pull mulch back as shoots emerge so they get light and air."
+          },
+          {
+            "task": "Pest & disease check",
+            "product": "",
+            "cadence": "every 3 weeks",
+            "start": "March 28",
+            "end": "June 1",
+            "notes": "Few pests; watch for aphids. Tip: wear gloves when handling the bulbs — they can irritate skin."
+          }
+        ],
+        "6a": [
+          {
+            "task": "Plant bulbs",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "October 15",
+            "end": "",
+            "notes": "Plant 4–6 inches deep, pointed end up, in well-drained soil; mix bulb food into the hole."
+          },
+          {
+            "task": "Fertilize",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "March 22",
+            "end": "",
+            "notes": "Feed with bulb food as shoots emerge to support the big fragrant spikes."
+          },
+          {
+            "task": "Deadhead",
+            "product": "",
+            "cadence": "once",
+            "start": "April 26",
+            "end": "",
+            "notes": "Snip spent flowers so energy goes to the bulb, not seed — but leave all the foliage."
+          },
+          {
+            "task": "Cut back",
+            "product": "",
+            "cadence": "once",
+            "start": "May 25",
+            "end": "",
+            "notes": "Remove foliage only after it yellows (≈6 weeks past bloom). Never cut or braid green leaves — they're recharging the bulb."
+          },
+          {
+            "task": "Winter mulch",
+            "product": "",
+            "cadence": "once",
+            "start": "November 25",
+            "end": "",
+            "notes": "2–3 inches of straw or shredded leaves once the ground chills, to prevent frost-heave."
+          },
+          {
+            "task": "Remove winter mulch",
+            "product": "",
+            "cadence": "once",
+            "start": "March 15",
+            "end": "",
+            "notes": "Pull mulch back as shoots emerge so they get light and air."
+          },
+          {
+            "task": "Pest & disease check",
+            "product": "",
+            "cadence": "every 3 weeks",
+            "start": "March 22",
+            "end": "May 25",
+            "notes": "Few pests; watch for aphids. Tip: wear gloves when handling the bulbs — they can irritate skin."
+          }
+        ],
+        "6b": [
+          {
+            "task": "Plant bulbs",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "October 20",
+            "end": "",
+            "notes": "Plant 4–6 inches deep, pointed end up, in well-drained soil; mix bulb food into the hole."
+          },
+          {
+            "task": "Fertilize",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "March 18",
+            "end": "",
+            "notes": "Feed with bulb food as shoots emerge to support the big fragrant spikes."
+          },
+          {
+            "task": "Deadhead",
+            "product": "",
+            "cadence": "once",
+            "start": "April 22",
+            "end": "",
+            "notes": "Snip spent flowers so energy goes to the bulb, not seed — but leave all the foliage."
+          },
+          {
+            "task": "Cut back",
+            "product": "",
+            "cadence": "once",
+            "start": "May 20",
+            "end": "",
+            "notes": "Remove foliage only after it yellows (≈6 weeks past bloom). Never cut or braid green leaves — they're recharging the bulb."
+          },
+          {
+            "task": "Winter mulch",
+            "product": "",
+            "cadence": "once",
+            "start": "December 1",
+            "end": "",
+            "notes": "2–3 inches of straw or shredded leaves once the ground chills, to prevent frost-heave."
+          },
+          {
+            "task": "Remove winter mulch",
+            "product": "",
+            "cadence": "once",
+            "start": "March 10",
+            "end": "",
+            "notes": "Pull mulch back as shoots emerge so they get light and air."
+          },
+          {
+            "task": "Pest & disease check",
+            "product": "",
+            "cadence": "every 3 weeks",
+            "start": "March 18",
+            "end": "May 20",
+            "notes": "Few pests; watch for aphids. Tip: wear gloves when handling the bulbs — they can irritate skin."
+          }
+        ],
+        "7a": [
+          {
+            "task": "Plant bulbs",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "October 30",
+            "end": "",
+            "notes": "Plant 4–6 inches deep, pointed end up, in well-drained soil; mix bulb food into the hole."
+          },
+          {
+            "task": "Fertilize",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "March 12",
+            "end": "",
+            "notes": "Feed with bulb food as shoots emerge to support the big fragrant spikes."
+          },
+          {
+            "task": "Deadhead",
+            "product": "",
+            "cadence": "once",
+            "start": "April 15",
+            "end": "",
+            "notes": "Snip spent flowers so energy goes to the bulb, not seed — but leave all the foliage."
+          },
+          {
+            "task": "Cut back",
+            "product": "",
+            "cadence": "once",
+            "start": "May 15",
+            "end": "",
+            "notes": "Remove foliage only after it yellows (≈6 weeks past bloom). Never cut or braid green leaves — they're recharging the bulb."
+          },
+          {
+            "task": "Winter mulch",
+            "product": "",
+            "cadence": "once",
+            "start": "December 1",
+            "end": "",
+            "notes": "2–3 inches of straw or shredded leaves once the ground chills, to prevent frost-heave."
+          },
+          {
+            "task": "Remove winter mulch",
+            "product": "",
+            "cadence": "once",
+            "start": "March 1",
+            "end": "",
+            "notes": "Pull mulch back as shoots emerge so they get light and air."
+          },
+          {
+            "task": "Pest & disease check",
+            "product": "",
+            "cadence": "every 3 weeks",
+            "start": "March 12",
+            "end": "May 15",
+            "notes": "Few pests; watch for aphids. Tip: wear gloves when handling the bulbs — they can irritate skin."
+          }
+        ],
+        "7b": [
+          {
+            "task": "Plant bulbs",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "November 5",
+            "end": "",
+            "notes": "Plant 4–6 inches deep, pointed end up, in well-drained soil; mix bulb food into the hole."
+          },
+          {
+            "task": "Fertilize",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "March 8",
+            "end": "",
+            "notes": "Feed with bulb food as shoots emerge to support the big fragrant spikes."
+          },
+          {
+            "task": "Deadhead",
+            "product": "",
+            "cadence": "once",
+            "start": "April 11",
+            "end": "",
+            "notes": "Snip spent flowers so energy goes to the bulb, not seed — but leave all the foliage."
+          },
+          {
+            "task": "Cut back",
+            "product": "",
+            "cadence": "once",
+            "start": "May 10",
+            "end": "",
+            "notes": "Remove foliage only after it yellows (≈6 weeks past bloom). Never cut or braid green leaves — they're recharging the bulb."
+          },
+          {
+            "task": "Winter mulch",
+            "product": "",
+            "cadence": "once",
+            "start": "December 5",
+            "end": "",
+            "notes": "2–3 inches of straw or shredded leaves once the ground chills, to prevent frost-heave."
+          },
+          {
+            "task": "Remove winter mulch",
+            "product": "",
+            "cadence": "once",
+            "start": "February 25",
+            "end": "",
+            "notes": "Pull mulch back as shoots emerge so they get light and air."
+          },
+          {
+            "task": "Pest & disease check",
+            "product": "",
+            "cadence": "every 3 weeks",
+            "start": "March 8",
+            "end": "May 10",
+            "notes": "Few pests; watch for aphids. Tip: wear gloves when handling the bulbs — they can irritate skin."
+          }
+        ],
+        "8a": [
+          {
+            "task": "Pre-chill bulbs",
+            "product": "",
+            "cadence": "once",
+            "start": "August 25",
+            "end": "",
+            "notes": "Refrigerate bulbs 10–14 weeks in a paper bag, away from apples/fruit, before planting — essential to get blooms in a warm winter."
+          },
+          {
+            "task": "Plant bulbs",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "November 15",
+            "end": "",
+            "notes": "Plant 4–6 inches deep, pointed end up, in well-drained soil; mix bulb food into the hole. Blooms shrink in later years and need pre-chilling in warm zones — many gardeners replant every year or two."
+          },
+          {
+            "task": "Fertilize",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "March 1",
+            "end": "",
+            "notes": "Feed with bulb food as shoots emerge to support the big fragrant spikes."
+          },
+          {
+            "task": "Deadhead",
+            "product": "",
+            "cadence": "once",
+            "start": "April 3",
+            "end": "",
+            "notes": "Snip spent flowers so energy goes to the bulb, not seed — but leave all the foliage."
+          },
+          {
+            "task": "Cut back",
+            "product": "",
+            "cadence": "once",
+            "start": "May 1",
+            "end": "",
+            "notes": "Remove foliage only after it yellows (≈6 weeks past bloom). Never cut or braid green leaves — they're recharging the bulb."
+          },
+          {
+            "task": "Pest & disease check",
+            "product": "",
+            "cadence": "every 3 weeks",
+            "start": "March 1",
+            "end": "May 1",
+            "notes": "Few pests; watch for aphids. Tip: wear gloves when handling the bulbs — they can irritate skin."
+          }
+        ],
+        "8b": [
+          {
+            "task": "Pre-chill bulbs",
+            "product": "",
+            "cadence": "once",
+            "start": "September 1",
+            "end": "",
+            "notes": "Refrigerate bulbs 10–14 weeks in a paper bag, away from apples/fruit, before planting — essential to get blooms in a warm winter."
+          },
+          {
+            "task": "Plant bulbs",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "November 25",
+            "end": "",
+            "notes": "Plant 4–6 inches deep, pointed end up, in well-drained soil; mix bulb food into the hole. Blooms shrink in later years and need pre-chilling in warm zones — many gardeners replant every year or two."
+          },
+          {
+            "task": "Fertilize",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "February 22",
+            "end": "",
+            "notes": "Feed with bulb food as shoots emerge to support the big fragrant spikes."
+          },
+          {
+            "task": "Deadhead",
+            "product": "",
+            "cadence": "once",
+            "start": "March 26",
+            "end": "",
+            "notes": "Snip spent flowers so energy goes to the bulb, not seed — but leave all the foliage."
+          },
+          {
+            "task": "Cut back",
+            "product": "",
+            "cadence": "once",
+            "start": "April 25",
+            "end": "",
+            "notes": "Remove foliage only after it yellows (≈6 weeks past bloom). Never cut or braid green leaves — they're recharging the bulb."
+          },
+          {
+            "task": "Pest & disease check",
+            "product": "",
+            "cadence": "every 3 weeks",
+            "start": "February 22",
+            "end": "April 25",
+            "notes": "Few pests; watch for aphids. Tip: wear gloves when handling the bulbs — they can irritate skin."
+          }
+        ],
+        "9a": [
+          {
+            "task": "Pre-chill bulbs",
+            "product": "",
+            "cadence": "once",
+            "start": "September 10",
+            "end": "",
+            "notes": "Refrigerate bulbs 10–14 weeks in a paper bag, away from apples/fruit, before planting — essential to get blooms in a warm winter."
+          },
+          {
+            "task": "Plant bulbs",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "December 10",
+            "end": "",
+            "notes": "Plant 4–6 inches deep, pointed end up, in well-drained soil; mix bulb food into the hole. Blooms shrink in later years and need pre-chilling in warm zones — many gardeners replant every year or two."
+          },
+          {
+            "task": "Fertilize",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "February 15",
+            "end": "",
+            "notes": "Feed with bulb food as shoots emerge to support the big fragrant spikes."
+          },
+          {
+            "task": "Deadhead",
+            "product": "",
+            "cadence": "once",
+            "start": "March 19",
+            "end": "",
+            "notes": "Snip spent flowers so energy goes to the bulb, not seed — but leave all the foliage."
+          },
+          {
+            "task": "Cut back",
+            "product": "",
+            "cadence": "once",
+            "start": "April 15",
+            "end": "",
+            "notes": "Remove foliage only after it yellows (≈6 weeks past bloom). Never cut or braid green leaves — they're recharging the bulb."
+          },
+          {
+            "task": "Pest & disease check",
+            "product": "",
+            "cadence": "every 3 weeks",
+            "start": "February 15",
+            "end": "April 15",
+            "notes": "Few pests; watch for aphids. Tip: wear gloves when handling the bulbs — they can irritate skin."
+          }
+        ],
+        "9b": [
+          {
+            "task": "Pre-chill bulbs",
+            "product": "",
+            "cadence": "once",
+            "start": "September 20",
+            "end": "",
+            "notes": "Refrigerate bulbs 10–14 weeks in a paper bag, away from apples/fruit, before planting — essential to get blooms in a warm winter."
+          },
+          {
+            "task": "Plant bulbs",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "December 20",
+            "end": "",
+            "notes": "Plant 4–6 inches deep, pointed end up, in well-drained soil; mix bulb food into the hole. Blooms shrink in later years and need pre-chilling in warm zones — many gardeners replant every year or two."
+          },
+          {
+            "task": "Fertilize",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "February 8",
+            "end": "",
+            "notes": "Feed with bulb food as shoots emerge to support the big fragrant spikes."
+          },
+          {
+            "task": "Deadhead",
+            "product": "",
+            "cadence": "once",
+            "start": "March 11",
+            "end": "",
+            "notes": "Snip spent flowers so energy goes to the bulb, not seed — but leave all the foliage."
+          },
+          {
+            "task": "Cut back",
+            "product": "",
+            "cadence": "once",
+            "start": "April 8",
+            "end": "",
+            "notes": "Remove foliage only after it yellows (≈6 weeks past bloom). Never cut or braid green leaves — they're recharging the bulb."
+          },
+          {
+            "task": "Pest & disease check",
+            "product": "",
+            "cadence": "every 3 weeks",
+            "start": "February 8",
+            "end": "April 8",
+            "notes": "Few pests; watch for aphids. Tip: wear gloves when handling the bulbs — they can irritate skin."
+          }
+        ],
+        "10a": [
+          {
+            "task": "Pre-chill bulbs",
+            "product": "",
+            "cadence": "once",
+            "start": "September 25",
+            "end": "",
+            "notes": "Refrigerate bulbs 10–14 weeks in a paper bag, away from apples/fruit, before planting — essential to get blooms in a warm winter."
+          },
+          {
+            "task": "Plant bulbs",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "December 20",
+            "end": "",
+            "notes": "Plant 4–6 inches deep, pointed end up, in well-drained soil; mix bulb food into the hole. Blooms shrink in later years and need pre-chilling in warm zones — many gardeners replant every year or two."
+          },
+          {
+            "task": "Fertilize",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "February 1",
+            "end": "",
+            "notes": "Feed with bulb food as shoots emerge to support the big fragrant spikes."
+          },
+          {
+            "task": "Deadhead",
+            "product": "",
+            "cadence": "once",
+            "start": "March 4",
+            "end": "",
+            "notes": "Snip spent flowers so energy goes to the bulb, not seed — but leave all the foliage."
+          },
+          {
+            "task": "Cut back",
+            "product": "",
+            "cadence": "once",
+            "start": "April 1",
+            "end": "",
+            "notes": "Remove foliage only after it yellows (≈6 weeks past bloom). Never cut or braid green leaves — they're recharging the bulb."
+          },
+          {
+            "task": "Pest & disease check",
+            "product": "",
+            "cadence": "every 3 weeks",
+            "start": "February 1",
+            "end": "April 1",
+            "notes": "Few pests; watch for aphids. Tip: wear gloves when handling the bulbs — they can irritate skin."
+          }
+        ],
+        "10b": [
+          {
+            "task": "Pre-chill bulbs",
+            "product": "",
+            "cadence": "once",
+            "start": "October 1",
+            "end": "",
+            "notes": "Refrigerate bulbs 10–14 weeks in a paper bag, away from apples/fruit, before planting — essential to get blooms in a warm winter."
+          },
+          {
+            "task": "Plant bulbs",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "December 28",
+            "end": "",
+            "notes": "Plant 4–6 inches deep, pointed end up, in well-drained soil; mix bulb food into the hole. Blooms shrink in later years and need pre-chilling in warm zones — many gardeners replant every year or two."
+          },
+          {
+            "task": "Fertilize",
+            "product": "Espoma Bulb-Tone 3-5-3 [(buy)](https://www.amazon.com/s?k=Espoma+Bulb-Tone)",
+            "cadence": "once",
+            "start": "January 28",
+            "end": "",
+            "notes": "Feed with bulb food as shoots emerge to support the big fragrant spikes."
+          },
+          {
+            "task": "Deadhead",
+            "product": "",
+            "cadence": "once",
+            "start": "February 28",
+            "end": "",
+            "notes": "Snip spent flowers so energy goes to the bulb, not seed — but leave all the foliage."
+          },
+          {
+            "task": "Cut back",
+            "product": "",
+            "cadence": "once",
+            "start": "March 25",
+            "end": "",
+            "notes": "Remove foliage only after it yellows (≈6 weeks past bloom). Never cut or braid green leaves — they're recharging the bulb."
+          },
+          {
+            "task": "Pest & disease check",
+            "product": "",
+            "cadence": "every 3 weeks",
+            "start": "January 28",
+            "end": "March 25",
+            "notes": "Few pests; watch for aphids. Tip: wear gloves when handling the bulbs — they can irritate skin."
+          }
+        ]
+      }
     }
   }
 }
